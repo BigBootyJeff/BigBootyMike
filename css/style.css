@@ -3,11 +3,19 @@ h2{
 }
 
 body {
-    background-color: #00ffe9; 
+    background-color: pink; 
 }
 
 h2{color:red ;
 }
 #plankton{
-    color:green;
+    color:grey;
+}
+
+p{
+    border:3px solid;
+    padding: 10px;
+    margin: 10px;
+    width: 100%;
+    height:px;
 }
