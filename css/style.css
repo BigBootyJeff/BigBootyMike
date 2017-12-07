@@ -19,3 +19,36 @@ p{
     width: 100%;
     height:px;
 }
+list-style-type
+
+ul{
+    color:grey;
+   
+}
+
+/* unvisited link */
+a:link {
+    color: blue;
+}
+
+/* visited link */
+a:visited {
+    color:red ;
+}
+
+/* mouse over link */
+a:hover {
+    color: green;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+
+#stuff{
+    Border:3px solid;
+    padding:10px;  
+    height:500px
+}
+
