@@ -3,7 +3,7 @@ h2{
 }
 
 body {
-    background-color: pink; 
+    background-color: ; 
 }
 
 h2{color:red ;
@@ -49,6 +49,11 @@ a:active {
 #stuff{
     Border:3px solid;
     padding:10px;  
-    height:500px
+    height:800px
 }
+
+Span {
+    font-weight:bold
+}
+
 
